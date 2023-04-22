@@ -1,3 +1,1 @@
-* add (a) macrolet to body
-* add write-html defun
 
